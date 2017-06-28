@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All about me on Savitur</title>
+    <link>http://savitur.nl/about/</link>
+    <description>Recent content in All about me on Savitur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 09:48:15 +0200</lastBuildDate>
+    
+	<atom:link href="http://savitur.nl/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

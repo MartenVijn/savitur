@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Savitur</title>
+    <link>http://savitur.nl/</link>
+    <description>Recent content in Home on Savitur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 10:15:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://savitur.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>home</title>
+      <link>http://savitur.nl/home/home/</link>
+      <pubDate>Fri, 23 Jun 2017 10:15:22 +0200</pubDate>
+      
+      <guid>http://savitur.nl/home/home/</guid>
+      <description>chap 1 this text..</description>
+    </item>
+    
+    <item>
+      <title>Gayatri Mantra</title>
+      <link>http://savitur.nl/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://savitur.nl/portfolio/work1/</guid>
+      <description>Savitur is ontleend aan de gayatri mantra, die ik vrijwel dagelijks zing.
+Savitur betekent &amp;ldquo;De ware aard die het bestaan verlicht&amp;rdquo;.
+Het is voor mij als een focus punt, geleend van de gayatri mantra:
+Om Bhur Bhuvah Svaha Tat Savitur Varenyam Bhargo Devasya Dhimahi Dhiyo Yo nah Prachodayat Een mogelijke vertaling kan zijn als (onder andere):
+Door alle lagen van ervaring heen is
+Dat, de ware aard die het bestaan verlicht, het allerhoogste Ene.</description>
+    </item>
+    
+  </channel>
+</rss>

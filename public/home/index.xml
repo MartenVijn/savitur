@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Savitur</title>
+    <link>http://savitur.nl/home/</link>
+    <description>Recent content in Homes on Savitur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>all rigths reserved</copyright>
+    <lastBuildDate>Fri, 23 Jun 2017 10:15:22 +0200</lastBuildDate>
+    
+	<atom:link href="http://savitur.nl/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>home</title>
+      <link>http://savitur.nl/home/home/</link>
+      <pubDate>Fri, 23 Jun 2017 10:15:22 +0200</pubDate>
+      
+      <guid>http://savitur.nl/home/home/</guid>
+      <description>chap 1 this text..</description>
+    </item>
+    
+  </channel>
+</rss>
